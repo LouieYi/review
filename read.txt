@@ -2,4 +2,8 @@ hello, this is the first line.
 This is the second line;
 Add to staging area
 developing 
+<<<<<<< HEAD
 TEST CONFLICT
+=======
+test confict 
+>>>>>>> dev
