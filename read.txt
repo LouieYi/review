@@ -7,3 +7,4 @@ TEST CONFLICT
 =======
 test confict 
 >>>>>>> dev
+no fast forward
