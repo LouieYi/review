@@ -8,4 +8,10 @@ TEST CONFLICT
 test confict 
 >>>>>>> dev
 no fast forward
+<<<<<<< HEAD
 修复bug
+=======
+开发中。..
+继续开发...
+>>>>>>> dev
+超车
