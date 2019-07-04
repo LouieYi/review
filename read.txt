@@ -8,3 +8,4 @@ TEST CONFLICT
 test confict 
 >>>>>>> dev
 no fast forward
+修复bug
