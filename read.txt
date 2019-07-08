@@ -15,3 +15,5 @@ no fast forward
 继续开发...
 >>>>>>> dev
 超车
+
+change the .git/config
