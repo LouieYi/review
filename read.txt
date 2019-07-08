@@ -17,3 +17,5 @@ no fast forward
 超车
 
 change the .git/config
+
+add a new line
